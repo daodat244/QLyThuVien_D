@@ -1,4 +1,5 @@
 ---QLyThuVien_D---
+
 Ứng dụng Quản lý Thư viện viết bằng Java (Swing), kết nối SQL Server thông qua JDBC.
 
 #Tính năng chính
